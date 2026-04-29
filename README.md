@@ -18,7 +18,7 @@
 
 ## 📌 What Is This Repository?
 
-This is the official GitHub home of **AppSec From The Trenches** — an enterprise application security reference documenting real vulnerability patterns, exploitation chains, and professional testing methodology built from **6+ years of penetration testing at Infosys Limited** across BFSI, Healthcare, Retail, E-commerce, Freight Logistics, and Education sectors.
+This is the official GitHub home of **AppSec From The Trenches** — an enterprise application security reference documenting real vulnerability patterns, exploitation chains, and professional testing methodology built from **5+ years of penetration testing at Infosys Limited** across BFSI, Healthcare, Retail, E-commerce, Freight Logistics, and Education sectors.
 
 ### How this differs from typical security write-ups
 
@@ -135,7 +135,7 @@ Prompt injection — direct and indirect; insecure plugin execution; LLM agent m
 | 🏢 Enterprise Engagements | **20+** |
 | 🐛 Critical & High Findings Documented | **200+** |
 | 📝 Write-ups Published | **Growing** |
-| 💼 Years in Enterprise AppSec | **6+** |
+| 💼 Years in Enterprise AppSec | **5+** |
 | 🏭 Industry Sectors Covered | **6 (BFSI, Healthcare, Retail, E-commerce, Logistics, Education)** |
 | 👥 Engineers Mentored on Secure Coding | **15+** |
 | 📉 Attack Surface Reduction Achieved | **35%** |
@@ -317,7 +317,7 @@ These are the vulnerability classes I document across nearly every enterprise en
 | Executive Certificate in Cyber Security | ✅ IIT Kanpur, 2026 |
 
 **Professional Background:**
-- 15+ years in IT | 6+ years in offensive security
+- 15+ years in IT | 5+ years in offensive security
 - Started as full-stack developer (ASP.NET / SQL Server / JavaScript)
 - Technology Lead — Offensive Security at Infosys Limited, Pune
 - Domains: BFSI, Healthcare, Retail, E-commerce, Freight Logistics, Education
