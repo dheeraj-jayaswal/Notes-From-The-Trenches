@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=800&lines=%23AppSecFromTheTrenches;Enterprise+Field+Notes+%7C+6%2B+Years+of+Real+Engagements;Web+%7C+API+%7C+Red+Team+%7C+Threat+Intelligence;200%2B+Critical+%26+High+Findings+Documented" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=800&lines=%23AppSecFromTheTrenches;Enterprise+Field+Notes+%7C+5%2B+Years+of+Real+Engagements;Web+%7C+API+%7C+Red+Team+%7C+Threat+Intelligence;200%2B+Critical+%26+High+Findings+Documented" alt="Typing SVG" />
 
 > **Not a learning series. A practitioner's field manual.**
 > *Every write-up is a pattern I have confirmed in production enterprise environments.*
